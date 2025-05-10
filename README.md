@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Licence](https://img.shields.io/badge/Licence-CC%20BY--NC%204.0-lightgrey.svg)
 
-## Getting Started
+## 📄 Licence
 
-First, run the development server:
+Ce projet est publié sous la licence **Creative Commons BY-NC 4.0**.  
+Cela signifie que vous pouvez l'utiliser, le modifier et le partager **tant que** :
+- vous **créditez Fougere Studio**,
+- vous ne l’utilisez **pas à des fins commerciales**.
 
-```bash
+👉 [Lire la licence complète](https://creativecommons.org/licenses/by-nc/4.0/)
+
+🌿 Fougere Studio
+Fougere Studio est une entreprise et une marque fondée par deux créatifs passionnés.
+Nous accompagnons les artisans, créateurs et indépendants pour leur proposer l'inimaginable et les aider à façonner leur univers digital.
+
+Nous croyons que chaque artisan a une histoire unique. Notre mission est de la faire vivre à travers des expériences web sur mesure, en alliant design, technique et émotion.
+
+✨ Ce que nous faisons
+Création d'identité visuelle
+
+Conception de sites vitrines et e-commerce
+
+Développement sur-mesure
+
+Conseils en communication digitale
+
+Expériences web immersives
+
+🛠️ Technologies principales
+Nous aimons allier l’élégance du design à la robustesse du code. Voici quelques-unes des technologies que nous utilisons :
+
+Frontend : React, Next.js, Vite, Tailwind CSS, GSAP
+
+Backend : Node.js, Strapi, Sanity, Firebase, Supabase
+
+CMS : headless, flexible et adapté à chaque client
+
+Design : Figma, Adobe CC, Pen & Paper ✍️
+
+git clone https://github.com/ton-utilisateur/fougere-studio.git
+cd fougere-studio
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🤝 Travaillons ensemble
+Vous êtes artisan, artiste ou entrepreneur indépendant ?
+Nous serions ravis d’imaginer avec vous un univers web qui vous ressemble.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+📬 Contact : hello@fougere.studio
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🖋️ À propos
+Fougere Studio est né de la rencontre de deux âmes créatives qui partagent un amour pour l’artisanat, l’esthétique et le web.
+Notre ambition : redonner une place au beau, à l’humain et à l’émotion dans le monde numérique.
